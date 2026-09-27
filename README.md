@@ -1,9 +1,9 @@
 # Note Taker
 
-A single-page vanilla JS/HTML/CSS app for jotting down short notes: type a note and add it to a running list on the page.
+A one page app in vanilla JS, HTML, and CSS for jotting down short notes: type a note and it's added to a running list on the page.
 
 ## Requirements
-None — plain HTML/CSS/JS, no build step or dependencies.
+None; it's plain HTML, CSS, and JS, with no build step or dependencies.
 
 ## Running it
 Open `index.html` in a browser.
